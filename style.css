@@ -1,0 +1,213 @@
+.my_nav_bar {
+    position:sticky;
+    top: 0;
+    z-index: 99999;
+    background-color:darkgreen;
+    text-decoration-color: black;
+}
+
+.contact_1 {
+    text-align: center;
+    display: flex;         /* Activates flexbox layout */
+  flex-direction: row;   /* Aligns children horizontally (default behavior) */
+  gap: 15px;   
+  margin:35px;
+  font-size:16px ;
+  justify-content: center;
+}
+
+
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+    text-align: center;
+}
+
+
+
+body {
+    background-color: white;
+    text-align: center;
+    }
+
+#contact_us {
+    text-align: center;
+    
+}
+
+
+
+a {
+    text-align: center;
+}
+
+.accomplish_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+
+.accomplish_head i {
+    float: right;
+}
+
+
+.accomplish_text span {
+    color: orange;
+}
+
+
+.event {
+    width: 400x;
+    height:  500px;
+}
+
+.current_mainDiv {
+    border: 1px solid lightgrey;
+    text-align: center;
+}
+
+.current_mainDiv img {
+    width: 100%;
+}
+
+.current_mainDiv h5, .travel_mainDiv p {
+    margin: 20px;
+}
+
+.about_us {
+    width:100%;
+    max-width:800px;
+    height: auto;
+    display: bblock;
+    margin: auto;
+    border-radius: 15px;
+}
+ .care {
+    font-weight: bold;
+    font-size: large;
+ }
+
+ #logo {
+    float:left;
+    width: 50px;
+    height: 50px;
+ }
+
+ .intro {
+font-size: 25px;
+
+   font-family: "Cedarville Cursive", cursive;
+  font-weight: 400;
+  font-style: normal;
+ }
+
+ .description_CARE {
+   text-align: justify;
+   margin-left: 35px;
+   margin-right: 35px;
+font-weight: bold;
+ font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+ }
+
+#achievements {
+  margin: 100px; /* Adjust the pixel size as needed */
+}
+
+.pics {
+    height: 975px;
+    width: 1840;
+}
+
+.links {
+    font-size: larger;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 95px;
+}
+
+.describe {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color: green;
+}
+
+.KSS {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      
+}
+
+.title {
+    font-size: x-large;
+  
+}
+
+.more {
+    font-size: x-large;
+      font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.whatshappening {
+    font-size: 28px;
+      font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.go {
+    font-size: 16px;
+}
+
+.emoji {
+    font-size: 2rem;
+  vertical-align: middle;
+}
+
+.youtube {
+    font-size: 27px;
+}
+
+.article {
+    font-size: 19px;
+}
+
+.who {
+    font-size: 17px;
+      font-family: "Montenegrin Gothic One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#myButton {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    background-color: yellowgreen;
+}
+
+.TA {
+    font-size: 29px;
+     font-family: "Black Ops One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
